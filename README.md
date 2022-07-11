@@ -7,6 +7,7 @@ Demonstrated skills:
 • HTML
 
 • CSS
+
      ⋄ Flexbox
 
 Live Demo: https://arla-adithya.github.io/CSS-Project-1/
