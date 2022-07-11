@@ -1,0 +1,138 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top, .footer {
+    background-color: #1F2937;
+    padding: 0;
+}
+.maintext{
+    font-size: 48px;
+    font-weight:900;
+    color: #F9FAF8;
+}
+.sectext,.Top-links {
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 450px;
+}
+.hea {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6em;
+    margin-right: 6em;
+    
+}
+.Top-links{
+    margin-left: auto;
+    display:flex;
+    gap: 18px;
+}
+.content{
+    display: flex;
+    margin-left: 6em;
+    margin-right: 6em;
+    padding-top: 6em;
+    padding-bottom: 6em;
+  
+}
+.image{
+   margin-left: auto;
+   height: 100px;
+}
+.button1{
+    border: none;
+    background-color: #3882f6;
+    border: 1px solid #3882f6;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+/* second part */
+.head{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+.square {
+    border: 4px solid #3882F6;
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+}
+.con1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+.content2{
+    width: 160px;
+    text-align: center;
+}
+.lowm{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 7em 13em;
+}
+.quote{
+    color: #87888a;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 36px;
+}
+.cap{
+    align-self: flex-end;
+    font-weight: bolder;
+}
+.lowm2{
+    background-color: #3882F6;
+    display: flex;
+    margin: 6em 20em;
+    border-radius: 10px;
+    align-items:center;
+    justify-content: space-around;
+    color: #FFF;
+}
+.new{
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+.hey{
+    text-decoration: none;
+    font-size: 18px;
+
+}
+button{
+    border: none;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+.footer{
+    color: white;
+    text-align: center;
+    padding: 24px 24px;
+    font-size: 18px;
+
+}
